@@ -1,3 +1,9 @@
-site_name: My Docs
+site_name: The Games Season Four
 theme:
   name: material
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
