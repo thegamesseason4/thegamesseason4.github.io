@@ -1,5 +1,16 @@
 :root {
-	--md-primary-fg-color: #ee0f0f;
-	--md-primary-fg-color--light: #ecb7b7;
-	--md-primary-fg-color--dark: #90030c;
+	--md-primary-fg-color: #ebc810;
+	--md-primary-fg-color--light: #000000;
+	--md-primary-fg-color--dark: #ff0000;
+	--md-primary-bg-color: #000000;
+	--md-accent-fg-color: #ff0000;
+}
+
+h2 {
+	font-size: 42px;
+}
+
+p {
+	font-size: 42px;
+	font-family: 'Papyrus';
 }
