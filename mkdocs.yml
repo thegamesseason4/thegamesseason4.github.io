@@ -1,6 +1,12 @@
-site_name: The Games Season Four
+site_name: 'Razo Ranch: The Games'
+
+extra:
+  homepage: https://thegamesseason4.github.io/
 
 theme:
+  features:
+    - navigation.top
+    - toc.integrate
   name: material
   palette:
     - scheme: default
@@ -17,3 +23,10 @@ extra_css:
 
 extra_javascript:
   - javascripts/extra.js
+
+nav:
+  - Home Page: index.md
+  - Previous Games:
+      - Season 1 Games: previous_season/season_one.md
+      - Season 2 Games: previous_season/season_two.md
+      - Season 3 Games: previous_season/season_three.md
