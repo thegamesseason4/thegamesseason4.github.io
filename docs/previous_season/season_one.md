@@ -1,1 +1,1 @@
-# Season 1
+<h1 style="font-size:72px;font-family:'Papyrus';text-align:center;">Season 1</h1>

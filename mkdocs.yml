@@ -26,7 +26,7 @@ extra_javascript:
 
 nav:
   - Home Page: index.md
-  - Previous Games:
-      - Season 1 Games: previous_season/season_one.md
-      - Season 2 Games: previous_season/season_two.md
-      - Season 3 Games: previous_season/season_three.md
+  - Previous Seasons:
+      - Season 1: previous_season/season_one.md
+      - Season 2: previous_season/season_two.md
+      - Season 3: previous_season/season_three.md
