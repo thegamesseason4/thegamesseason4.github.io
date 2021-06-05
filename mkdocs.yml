@@ -4,6 +4,8 @@ extra:
   homepage: https://thegamesseason4.github.io/
 
 theme:
+  favicon: images/favicon.ico
+  logo: images/favicon.ico
   features:
     - navigation.top
     - toc.integrate
@@ -26,7 +28,9 @@ extra_javascript:
 
 nav:
   - Home Page: index.md
-  - Previous Seasons:
-      - Season 1: previous_season/season_one.md
-      - Season 2: previous_season/season_two.md
-      - Season 3: previous_season/season_three.md
+  - Previous Activities:
+      - Paintball Wars: previous_activities/paintball_wars.md
+      - Obstacle Course: previous_activities/obstacle_course.md
+      - Season 1: previous_activities/season_one.md
+      - Season 2: previous_activities/season_two.md
+      - Season 3: previous_activities/season_three.md

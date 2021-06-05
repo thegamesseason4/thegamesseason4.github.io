@@ -1,6 +1,6 @@
 <h1 style="font-size:72px;font-family:'Papyrus';text-align:center;">Season 4</h1>
 
-![Oh shit!](images/games_3.jpg 'The Games Season 3')
+![Something with the picture went wrong!](images/SEASON4SKULLS.jpg 'The Games Season 4')
 
 Fill out the application here on [The Games Application](https://forms.gle/getV7EVp8YXY12v26)
 
