@@ -1,8 +1,19 @@
-<h1 style="font-size:72px;font-family:'Papyrus';text-align:center;">Season 4</h1>
+---
+hide:
+  - navigation
+  - toc
+---
 
-![Something with the picture went wrong!](images/SEASON4SKULLS.jpg 'The Games Season 4')
+# Season 4
 
-Fill out the application here on [The Games Application](https://forms.gle/getV7EVp8YXY12v26)
+<div id="countdowntimer"></div>
+
+<img src="images/SEASON4SKULLS.jpg" class="responsiveImage" alt="Something with the picture went wrong!">
+<!-- ![Something with the picture went wrong!](images/SEASON4SKULLS.jpg 'The Games Season 4') -->
+
+<a id="linktoform" href="https://forms.gle/getV7EVp8YXY12v26">Razo Ranch: The Games Season 4 Application</a>
+
+<!-- [The Games Application](https://forms.gle/getV7EVp8YXY12v26) -->
 
 <!-- <iframe width="700" height="315" src="https://www.youtube.com/embed/GfIvfO9o6lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 

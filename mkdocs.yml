@@ -10,15 +10,20 @@ theme:
     - navigation.top
     - toc.integrate
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  features:
+    - navigation.tabs
 
 extra_css:
   - stylesheets/extra.css
@@ -34,3 +39,16 @@ nav:
       - Season 1: previous_activities/season_one.md
       - Season 2: previous_activities/season_two.md
       - Season 3: previous_activities/season_three.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:thegamesseason4@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/thegamesseason4/thegamesseason4.github.io
+    - icon: fontawesome/brands/youtube
+
+copyright: Copyright &copy; 2015 - 2020 Jose Razo
+
+markdown_extensions:
+  - attr_list
