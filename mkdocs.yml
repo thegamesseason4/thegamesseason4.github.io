@@ -42,15 +42,12 @@ nav:
       - Season 2: previous_activities/season_two.md
       - Season 3: previous_activities/season_three.md
 
-extra:
-  social:
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:thegamesseason4@gmail.com
-    - icon: fontawesome/brands/github
-      link: https://github.com/thegamesseason4/thegamesseason4.github.io
-    - icon: fontawesome/brands/youtube
+# extra:
+#   social:
+#     - icon: fontawesome/solid/paper-plane
+#       link: mailto:thegamesseason4@gmail.com
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/thegamesseason4/thegamesseason4.github.io
+#     - icon: fontawesome/brands/youtube
 
 copyright: Copyright &copy; 2015 - 2020 Jose Razo
-
-markdown_extensions:
-  - attr_list
