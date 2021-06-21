@@ -16,12 +16,8 @@
 
 <figure>
   <img src="/images/paintball_wars.jpg" alt="Paintball Wars" style="width:100%">
-  <figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">Paintball wars: Competitors before tournament</figcaption>
+  <figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">Competitors before tournament</figcaption>
 </figure>
-
-<!-- ![Something went wrong with this picture](../images/paintball_wars.jpg 'Paintball Wars')
-
-<p class="centertext">Paintball wars: Competitors before tournament</p> -->
 
 ---
 

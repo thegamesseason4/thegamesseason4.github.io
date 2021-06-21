@@ -17,19 +17,19 @@ Open call made out to any competitor wanting to test their physical and mental f
 <div class="cards">
   <div class="card">
     <img class="card-image" src="../../images/art_obs_pic.jpg" alt="">
-    <div class="card-info">
+    <div id="artobspic" class="card-info">
         Art
     </div>
   </div>
     <div class="card">
     <img class="card-image" src="../../images/jasmin_obs_pic.jpg" alt="">
-    <div class="card-info">
+    <div id="jasminobspic" class="card-info">
       Jasmin
     </div>
   </div>
     <div id="teamfat" class="card">
     <img class="card-image" src="../../images/team_fat_obs_pic.JPG" alt="">
-    <div class="card-info">
+    <div id="teamfatobspic"class="card-info">
       Team FAT
     </div>
   </div>

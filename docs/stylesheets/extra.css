@@ -111,20 +111,26 @@ p {
 	border-left: 2px solid #333333;
 }
 
+#artobspic,
+#jasminobspic,
+#teamfatobspic {
+	background: #ebc810;
+}
+
 #pinkpanthers {
-	background: pink;
+	background: #e75385;
 }
 
 #fallenblades {
-	background: orange;
+	background: #eb4124;
 }
 
 #greenteam {
-	background: green;
+	background: rgba(0, 128, 0, 0.688);
 }
 
 #honeybadgers {
-	background: purple;
+	background: rgba(128, 0, 128, 0.79);
 }
 
 #stormteam {
@@ -132,18 +138,18 @@ p {
 }
 
 #blueteam {
-	background: blue;
+	background: rgba(0, 0, 255, 0.79);
 }
 
 #teamchoas {
-	background: red;
+	background: #ba0a31;
 }
 
 #applicationbttn {
 	font-family: 'Papyrus';
 	font-size: 1rem;
 	background: red;
-	color: whitesmoke;
+	color: black;
 	padding: 10px;
 	border: 2px solid #ebc810;
 	border-radius: 8px;

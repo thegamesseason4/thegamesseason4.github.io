@@ -23,16 +23,16 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    - scheme: default
-      accent: red
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
     - scheme: slate
       accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    - scheme: default
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
   features:
     - navigation.tabs
 
