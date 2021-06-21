@@ -4,6 +4,15 @@ site_url: "https://thegamesseason4.github.io/"
 
 extra:
   homepage: https://thegamesseason4.github.io/
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:thegamesseason4@gmail.com
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/402071600554925/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/jrazo1988/videos
+    - icon: fontawesome/brands/github
+      link: https://github.com/thegamesseason4/thegamesseason4.github.io
 
 theme:
   favicon: images/favicon.ico
@@ -42,12 +51,4 @@ nav:
       - Season 2: previous_activities/season_two.md
       - Season 3: previous_activities/season_three.md
 
-# extra:
-#   social:
-#     - icon: fontawesome/solid/paper-plane
-#       link: mailto:thegamesseason4@gmail.com
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/thegamesseason4/thegamesseason4.github.io
-#     - icon: fontawesome/brands/youtube
-
-copyright: Copyright &copy; 2015 - 2020 Jose Razo
+copyright: Copyright &copy; 2015 - 2021 Jose Razo

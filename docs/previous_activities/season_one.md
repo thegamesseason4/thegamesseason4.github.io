@@ -14,31 +14,50 @@ Challengers from all over were summoned to come and compete in this epic, yet un
 
 ## Meet The Cast
 
-<div class="side-by-side-image-container">
 <figure>
 <img src="../../images/s-one-cast-part-one.jpg" alt="Cast Part One"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">Frank, Jackie, Elias, Martha, Gera, Angel, Art, Zam, Dark, Rolando</figcaption>
+<figcaption style="max-width: 34rem; font-family: 'Papyrus'; margin-top:0em; margin-bottom: 2em; font-size: 1em">Frank, Jackie, Elias, Martha, Gera, Angel, Art, Zam, Dark, Rolando</figcaption>
 </figure>
-<figure>
 
+<figure>
 <img src="../../images/s-one-cast-part-two.jpg" alt="Cast Part Two"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">Dante, Crystal, Alma, Chris, Jasmin, Yessica, Mirna, Erik, Santos, Arlene</figcaption>
+<figcaption style="max-width: 34rem; font-family: 'Papyrus'; margin-top:0em; margin-bottom: 2em; font-size: 1em">Dante, Crystal, Alma, Chris, Jasmin, Yessica, Mirna, Erik, Santos, Arlene</figcaption>
 </figure>
-</div>
+
+<figure>
+<img src="../../images/season1_sizingup_comp.jpg" alt="Sizing up the Competition"/>
+<figcaption style="max-width: 34rem; font-family: 'Papyrus'; margin-top:0em; margin-bottom: 2em; font-size: 1em">Season 1 teams sizing up the competition</figcaption>
+</figure>
+
+<!-- <div class="flex-container">
+  <div class="flex-item">
+    <img src="../../images/s-one-cast-part-one.jpg" alt="Cast Part One" />
+    <p>Frank, Jackie, Elias, Martha, Gera, Angel, Art, Zam, Dark, Rolando</p>
+  </div>
+  <div class="flex-item">
+    <img src="../../images/s-one-cast-part-two.jpg" alt="Cast Part Two" />
+    <p>Dante, Crystal, Alma, Chris, Jasmin, Yessica, Mirna, Erik, Santos, Arlene</p>
+  </div>
+  <div class="flex-item">
+    <img src="../../images/season1_sizingup_comp.jpg" alt="Sizing up the Competition" />
+    <p>Season 1 teams sizing up the competition</p>
+  </div>
+</div> -->
 
 ---
 
 ## Finalists
 
 <figure>
-<img src="../../images/s-one-finalists.JPG" alt="Season One Finalists"/>
-<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em">Dante, Santos, Angel</figcaption>
+<img class="center-image" src="../../images/s-one-finalists.JPG" alt="Season One Finalists"/>
+<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em;">Dante, Santos, Angel</figcaption>
 </figure>
 
 ---
 
 ## Winner
 
-<p class="centertext">Dante</p>
-
-![Something went wrong with this picture](../images/s-one-winner.jpg 'Paintball Wars')
+<figure>
+<img style="max-width:60%; height:auto;" class="center-image" src="../../images/s-one-winner.jpg" alt="Season One Winner"/>
+<figcaption style="font-family: 'Papyrus'; margin-bottom: 0em; font-size: 1em;">Dante</figcaption>
+</figure>
