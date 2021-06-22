@@ -3,6 +3,9 @@ site_name: 'Razo Ranch: The Games'
 site_url: "https://thegamesseason4.github.io/"
 
 extra:
+  analytics:
+      provider: google
+      property: UA-200100765-2
   homepage: https://thegamesseason4.github.io/
   social:
     - icon: fontawesome/solid/paper-plane
