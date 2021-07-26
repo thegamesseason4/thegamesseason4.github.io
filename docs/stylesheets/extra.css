@@ -148,18 +148,18 @@ p {
 #applicationbttn {
 	font-family: 'Papyrus';
 	font-size: 1rem;
-	background: red;
+	background: gray;
 	color: black;
 	padding: 10px;
-	border: 2px solid #ebc810;
+	/* border: 2px solid #ebc810; */
 	border-radius: 8px;
 	word-wrap: break-word !important;
 }
-#applicationbttn:hover {
+/* #applicationbttn:hover {
 	background-color: #ebc810;
 	border: 2px solid red;
 	color: black;
-}
+} */
 
 .flex-container {
 	display: flex;
